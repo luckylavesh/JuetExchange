@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# JuetExchange TUTORIAL
 
 Hi! My name is **Lavesh Soni**.
 
